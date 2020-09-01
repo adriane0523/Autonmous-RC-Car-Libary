@@ -1,0 +1,8 @@
+lcd.c:7:6:lcd_init	48	static
+lcd.c:210:6:lcd_displayOn	16	static
+lcd.c:237:6:lcd_displayUpper	16	static
+lcd.c:273:6:lcd_displayLower	16	static
+lcd.c:309:6:lcd_print	48	static
+lcd.c:360:6:lcd_printInt	40	static
+lcd.c:368:6:lcd_printFloat	128	static
+lcd.c:376:6:lcd_clear	16	static

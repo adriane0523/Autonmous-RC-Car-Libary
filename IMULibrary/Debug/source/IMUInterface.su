@@ -1,0 +1,10 @@
+core_cm0plus.h:840:22:__NVIC_SetPriority	24	static
+core_cm0plus.h:994:26:SysTick_Config	16	static
+IMUInterface.c:20:6:SysTick_Handler	8	static
+IMUInterface.c:28:6:SysTick_DelayTicks	16	static
+IMUInterface.c:38:14:DeviceInit	16	static
+IMUInterface.c:93:6:CalibrateIMUBlocking	32	static
+IMUInterface.c:136:14:WriteOffsets	32	static
+IMUInterface.c:178:14:GetEulerVectors	40	static
+IMUInterface.c:194:14:GetEulerHeadingDeg	24	static
+IMUInterface.c:203:14:GetEulerHeadingMin	24	static
